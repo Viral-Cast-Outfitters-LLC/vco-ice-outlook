@@ -1,0 +1,184 @@
+{
+  "granby": {
+    "lakeId": "granby",
+    "lakeName": "Lake Granby",
+    "lat": 40.1555325,
+    "lon": -105.8484447,
+    "elevationFt": 8284,
+    "county": "Grand",
+    "aliases": [
+      "lake granby",
+      "granby lake",
+      "granby reservoir"
+    ],
+    "source": "USGS GNIS 202532; elevation USGS EPQS via GNIS point"
+  },
+  "eleven-mile": {
+    "lakeId": "eleven-mile",
+    "lakeName": "Eleven Mile Reservoir",
+    "lat": 38.930042,
+    "lon": -105.5185085,
+    "elevationFt": 8566,
+    "county": "Park",
+    "aliases": [
+      "eleven mile",
+      "elevenmile",
+      "11 mile",
+      "elevenmile canyon reservoir",
+      "eleven mile canyon",
+      "eleven mile reservoir"
+    ],
+    "source": "USGS GNIS 203527 (Elevenmile Canyon Reservoir); elevation USGS topo via TopoQuest"
+  },
+  "rifle-gap": {
+    "lakeId": "rifle-gap",
+    "lakeName": "Rifle Gap Reservoir",
+    "lat": 39.6313505,
+    "lon": -107.7585584,
+    "elevationFt": 5961,
+    "county": "Garfield",
+    "aliases": [
+      "rifle gap",
+      "rifle gap reservoir"
+    ],
+    "source": "USGS GNIS 202186; elevation USGS EPQS via GNIS point"
+  },
+  "vega": {
+    "lakeId": "vega",
+    "lakeName": "Vega Reservoir",
+    "lat": 39.2243,
+    "lon": -107.81083,
+    "elevationFt": 7982,
+    "county": "Mesa",
+    "aliases": [
+      "vega reservoir",
+      "vega state park"
+    ],
+    "source": "U.S. Bureau of Reclamation RISE location 7327; elevation 7,982 ft NAVD88"
+  },
+  "taylor-park": {
+    "lakeId": "taylor-park",
+    "lakeName": "Taylor Park Reservoir",
+    "lat": 38.8355036,
+    "lon": -106.5802677,
+    "elevationFt": 9326,
+    "county": "Gunnison",
+    "aliases": [
+      "taylor park",
+      "taylor reservoir",
+      "taylor park reservoir"
+    ],
+    "source": "USGS GNIS 188911; elevation USGS EPQS via GNIS point"
+  },
+  "blue-mesa": {
+    "lakeId": "blue-mesa",
+    "lakeName": "Blue Mesa Reservoir",
+    "lat": 38.4713913,
+    "lon": -107.2113433,
+    "elevationFt": 7518,
+    "county": "Gunnison",
+    "aliases": [
+      "blue mesa",
+      "blue mesa reservoir"
+    ],
+    "source": "USGS GNIS 186973; elevation USGS EPQS via GNIS point"
+  },
+  "antero": {
+    "lakeId": "antero",
+    "lakeName": "Antero Reservoir",
+    "lat": 38.9874476,
+    "lon": -105.9156991,
+    "elevationFt": 8941,
+    "county": "Park",
+    "aliases": [
+      "antero",
+      "antero reservoir"
+    ],
+    "source": "USGS GNIS 198823; elevation USGS EPQS via GNIS point"
+  },
+  "spinney": {
+    "lakeId": "spinney",
+    "lakeName": "Spinney Mountain Reservoir",
+    "lat": 38.9861246,
+    "lon": -105.6431423,
+    "elevationFt": 8680,
+    "county": "Park",
+    "aliases": [
+      "spinney",
+      "spinney mountain",
+      "spinney mountain reservoir"
+    ],
+    "source": "USGS GNIS 197566; elevation USGS EPQS via GNIS point"
+  },
+  "dillon": {
+    "lakeId": "dillon",
+    "lakeName": "Dillon Reservoir",
+    "lat": 39.6015812,
+    "lon": -106.0579603,
+    "elevationFt": 9016,
+    "county": "Summit",
+    "aliases": [
+      "dillon",
+      "lake dillon",
+      "dillon reservoir"
+    ],
+    "source": "USGS GNIS 202344; elevation USGS EPQS via GNIS point"
+  },
+  "island-lake": {
+    "lakeId": "island-lake",
+    "lakeName": "Island Lake (Grand Mesa)",
+    "lat": 39.0616766,
+    "lon": -107.8462811,
+    "elevationFt": 10413,
+    "county": "Delta",
+    "aliases": [
+      "island lake",
+      "island reservoir",
+      "grand mesa island lake",
+      "island lake grand mesa"
+    ],
+    "source": "USGS GNIS 175390 (Island Reservoir); elevation USGS EPQS via GNIS point"
+  },
+  "stagecoach": {
+    "lakeId": "stagecoach",
+    "lakeName": "Stagecoach Reservoir",
+    "lat": 40.28833,
+    "lon": -106.86167,
+    "elevationFt": 7204,
+    "county": "Routt",
+    "aliases": [
+      "stagecoach",
+      "stagecoach reservoir",
+      "stagecoach state park"
+    ],
+    "source": "Coordinates from Wikipedia Stagecoach State Park (40\u00b017\u203218\u2033N 106\u00b051\u203242\u2033W). Elevation is the maximum pool after the 2010 spillway raise, 7,204 ft msl, as stated by Colorado Parks and Wildlife."
+  },
+  "steamboat-lake": {
+    "lakeId": "steamboat-lake",
+    "lakeName": "Steamboat Lake",
+    "lat": 40.791809,
+    "lon": -106.9650739,
+    "elevationFt": 8031,
+    "county": "Routt",
+    "aliases": [
+      "steamboat lake",
+      "steamboat lake state park"
+    ],
+    "source": "USGS GNIS 196408; elevation USGS EPQS via GNIS point"
+  },
+  "harvey-gap": {
+    "lakeId": "harvey-gap",
+    "lakeName": "Harvey Gap Reservoir",
+    "lat": 39.6138764,
+    "lon": -107.6594267,
+    "elevationFt": 6404,
+    "county": "Garfield",
+    "aliases": [
+      "harvey gap",
+      "harvey gap reservoir",
+      "grass valley reservoir",
+      "grass valley"
+    ],
+    "source": "USGS GNIS 174050 (Grass Valley Reservoir, the official name of the Harvey Gap impoundment); elevation 6,404 ft MSL from USGS topo via TopoQuest"
+  }
+}

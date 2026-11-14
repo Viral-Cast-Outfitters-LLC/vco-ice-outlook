@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "vco-ice-outlook",
+  "version": "0.1.0",
+  "description": "NWS temperature, wind, wind chill, alerts, and a weather-based freezing-degree-hours indicator for Colorado ice-fishing lakes. Wraps the free National Weather Service API. Ice thickness must come from on-site checks or official reports; never call ice safe.",
+  "author": {
+    "name": "Viral Cast Outfitters"
+  },
+  "license": "MIT",
+  "keywords": [
+    "nws",
+    "weather",
+    "colorado",
+    "lakes",
+    "ice-fishing",
+    "forecast",
+    "vco"
+  ]
+}
